@@ -5,7 +5,7 @@ void main() {
   runApp(new MaterialApp(
     title: 'Ejemplo de flutter', 
     debugShowCheckedModeBanner: false, 
-    theme: ThemeData(primarySwatch: Colors.yellow), 
+    theme: ThemeData(primarySwatch: Colors.red), 
     home: PaginaContacto()
     ) //fin de material
       ); // fin de runApp
